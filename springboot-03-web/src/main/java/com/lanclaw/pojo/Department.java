@@ -1,6 +1,5 @@
 package com.lanclaw.pojo;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
